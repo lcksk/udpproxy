@@ -1,0 +1,112 @@
+[Global]
+CurrentProject=udp.vpj
+[ProjectDates]
+udp.vpj=20150208102951000
+[ActiveConfig]
+udp.vpj=,Debug
+[TreeExpansion2]
+-@ udp.vpj
+  + Source Files
+  + Header Files
+  + Resource Files
+  + Bitmaps
+  + Other Files
+scroll:0
+[State]
+SCREEN: 1360 768 87 67 1173 645 0 0 M 0 0 0 0 1337 662 0
+CWD: ../udpproxy
+BUFFER: BN="config.c"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=1 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=119603808 TL=0 MLL=0 ASE=0 LNL=1 LCF=6 CAPS=0 E=70 ESBU2=71 CL="" SC="" SCE= SCU=
+VIEW: LN=.47157 CL=1 LE=0 CX=1 CY=12 WI=5 BI=19 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="config.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=1 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=6 CAPS=0 E=70 ESBU2=71 CL="" SC="" SCE= SCU=
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=5 BI=18 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="logger.c"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=1 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=119603296 TL=0 MLL=0 ASE=0 LNL=1 LCF=6 CAPS=0 E=70 ESBU2=71 CL="" SC="" SCE= SCU=
+VIEW: LN=.1869 CL=14 LE=0 CX=14 CY=13 WI=5 BI=20 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="udp.c"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=1 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=120652384 TL=0 MLL=0 ASE=0 LNL=1 LCF=6 CAPS=0 E=70 ESBU2=71 CL="" SC="" SCE= SCU=
+VIEW: LN=.19448 CL=1 LE=0 CX=1 CY=18 WI=5 BI=21 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="list.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=117440608 TL=0 MLL=0 ASE=0 LNL=1 LCF=6 CAPS=0 E=71 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.6630 CL=22 LE=0 CX=22 CY=20 WI=5 BI=17 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 24 1335 637 0 0 N  WF=0 WT=5 ",,," DID=0
+BUFFER: BN="logger.c"
+VIEW: LN=.1869 CL=23 LE=0 CX=28 CY=13 WI=113 BI=20 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 24 1335 565 0 0 N  WF=0 WT=6 "DejaVu Sans Mono,12,0,1" DID=0
+BUFFER: BN="list.h"
+VIEW: LN=.6630 CL=22 LE=0 CX=27 CY=20 WI=115 BI=17 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 24 1335 420 0 0 N  WF=0 WT=2 ",,," DID=0
+BUFFER: BN="config.h"
+VIEW: LN=.0 CL=1 LE=0 CX=5 CY=0 WI=111 BI=18 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 24 1145 529 0 0 N  WF=0 WT=4 ",,," DID=0
+BUFFER: BN="config.c"
+VIEW: LN=.47157 CL=1 LE=0 CX=7 CY=12 WI=109 BI=19 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 24 1335 637 0 0 N  WF=0 WT=3 ",,," DID=0
+BUFFER: BN="udp.c"
+VIEW: LN=.19448 CL=1 LE=0 CX=5 CY=18 WI=118 BI=21 HT=0 HN=0 HF=0 HC=4
+MDISTATE: 1
+AAAAAAAAAAHaAAAAAAAAACAAAAVPAAACzOoAAAAC+gAAAAUAAAAFAAAABAAAAAAAAAADAAAAAgAAAAH6AAAABQAAAAUAAAAEAAAAAwAAAAAAAAABAAAAAvwAAABWADQAOgA6ADoALwBoAG8AbQBlAC8AcwBoAGEAawBpAG4ALwB3AG8AcgBrAC8AcwByAGMALwB1AGQAcABwAHIAbwB4AHkALwBjAG8AbgBmAGkAZwAuAGMAAP////8AAPwAAABWADIAOgA6ADoALwBoAG8AbQBlAC8AcwBoAGEAawBpAG4ALwB3AG8AcgBrAC8AcwByAGMALwB1AGQAcABwAHIAbwB4AHkALwBjAG8AbgBmAGkAZwAuAGgAAP////8AAPwAAABSADYAOgA6ADoALwBoAG8AbQBlAC8AcwBoAGEAawBpAG4ALwB3AG8AcgBrAC8AcwByAGMALwB1AGQAcABwAHIAbwB4AHkALwBsAGkAcwB0AC4AaAAA/////wAA/AAAAFYANQA6ADoAOgAvAGgAbwBtAGUALwBzAGgAYQBrAGkAbgAvAHcAbwByAGsALwBzAHIAYwAvAHUAZABwAHAAcgBvAHgAeQAvAGwAbwBnAGcAZQByAC4AYwAA/////wAA/AAAAFAAMwA6ADoAOgAvAGgAbwBtAGUALwBzAGgAYQBrAGkAbgAvAHcAbwByAGsALwBzAHIAYwAvAHUAZABwAHAAcgBvAHgAeQAvAHUAZABwAC4AYwEA/////wAB
+FILEHIST: 9
+log.c
+/usr/include/dirent.h
+../../gitrepo/ffmpeg/doc/examples/transcoding.c
+config.h
+logger.c
+list.h
+/usr/include/pthread.h
+config.c
+udp.c
+TBCLASS: 0 0
+DEBUG: 13 0 3 0 3 0 gdb
+1tmp->timestamp0
+1g_ctx.head0
+1file_info->timestamp / 10000000
+1gContext.head->next->next->next0
+1g_ctx.file_list_mutex0
+1current_timestamp0
+1file_timestamp0
+1tmp->timestamp0
+1event->name0
+3g_ctx0
+2g_ctx.head0
+1file_item->timestamp0
+1filename0
+00on_requestudp.c59900
+00strtoiudp.c27700
+00mainudp.c64810x000000000040729a0
+printf
+strcpy
+std::*
+DEBUG2: 3
+00on_requestudp.c5990045
+break;
+}
+pthread_mutex_unlock(&g_ctx.file_list_mutex);
+}
+}
+
+intmain(intargc,char*argv[]){
+inti;
+structtimevalt_new;
+pthread_treq_tid;
+00strtoiudp.c2770045
+intstrtoi(constchar*s){
+if(!s)return;
+int64_tnum,i;
+charch;
+num=0;
+for(i=0;i<strlen(s);i++){
+ch=s[i];
+if(ch<'0'||ch>'9')break;
+num=num*10+(ch-'0');
+}
+00mainudp.c64810x000000000040729a034
+}
+
+//config解析
+cfg_index=cfg_read_config_file("udpproxy.conf");
+
+if(cfg_error_msg(cfg_index)){
+error=cfg_error_msg(cfg_index);
+}
